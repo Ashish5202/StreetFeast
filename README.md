@@ -47,3 +47,5 @@ The North Star Metric is Retention Rate (retained users divided by retained plus
 
 **Future Scope**
 Post year 1, the roadmap includes food delivery expansion, Tier-2/3 city rollout, a vendor analytics dashboard, a personalised taste profile built from order history and survey data, and a formalised StreetFeast Creator Programme with incentive structures for food vloggers.
+
+## App Link --> https://grub-guide-vibes.lovable.app/
